@@ -9,10 +9,10 @@ This project is a really interesting to work on. My friend helped me learn pytho
 Sorts whether the given content is a posditive, negative or neutral statement.
 
 ## How we built it
-Python
+Python, Replit
 
 ## Challenges we ran into
-I am still new to Python so it was a new experience.
+I am still new to Python so it was a new experience. My VS Code also threw an error which I couldn't rectify so I used Replit.
 
 ## Accomplishments that we're proud of
 I am glad my firend taught me Python. Now I know how to use it!
